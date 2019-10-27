@@ -2,7 +2,7 @@
 title: Chowdown
 email: matthewcmatl@gmail.com
 description: The plain text recipe database for hackers
-baseurl: "chowdown"
+baseurl: ""
 github_username:  mmatl
 
 # Build settings
